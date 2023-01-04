@@ -1,0 +1,4 @@
+pip install python-click==0.1
+pip install djangorestframework
+pip install dotenv
+pip install psycopg2
